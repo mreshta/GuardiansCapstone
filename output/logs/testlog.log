@@ -1966,3 +1966,8 @@
 2023-08-25 00:09:44,606 - logger_file -INFO - The user successfully entred the email and password
 2023-08-25 00:09:44,662 - logger_file -INFO - the user clicked on the login button successfully
 2023-08-25 00:09:45,010 - logger_file -INFO - The user is signed in successfully
+2023-08-25 00:17:22,646 - logger_file -INFO - The user is on tek retail website
+2023-08-25 00:17:22,728 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-25 00:17:22,863 - logger_file -INFO - The user successfully entred the email and password
+2023-08-25 00:17:22,919 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-25 00:17:23,243 - logger_file -INFO - The user is signed in successfully
