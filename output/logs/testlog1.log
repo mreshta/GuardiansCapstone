@@ -1971,3 +1971,7 @@
 2023-08-25 00:17:22,863 [main] INFO logger_file - The user successfully entred the email and password
 2023-08-25 00:17:22,919 [main] INFO logger_file - the user clicked on the login button successfully
 2023-08-25 00:17:23,243 [main] INFO logger_file - The user is signed in successfully
+2023-08-25 11:28:54,257 [main] INFO logger_file - The user is on tek retail website
+2023-08-25 11:28:54,338 [main] INFO logger_file - The User clicked on signIn button successfully
+2023-08-25 11:28:54,393 [main] INFO logger_file - Create new account bttn clicked successfully
+2023-08-25 11:28:54,641 [main] INFO logger_file - User information was entered successfully
