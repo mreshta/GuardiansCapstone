@@ -1975,3 +1975,11 @@
 2023-08-25 11:28:54,338 [main] INFO logger_file - The User clicked on signIn button successfully
 2023-08-25 11:28:54,393 [main] INFO logger_file - Create new account bttn clicked successfully
 2023-08-25 11:28:54,641 [main] INFO logger_file - User information was entered successfully
+2023-08-25 12:09:50,804 [main] INFO logger_file - The user is on tek retail website
+2023-08-25 12:09:50,892 [main] INFO logger_file - The User clicked on signIn button successfully
+2023-08-25 12:09:50,954 [main] INFO logger_file - Create new account bttn clicked successfully
+2023-08-25 12:09:51,232 [main] INFO logger_file - User information was entered successfully
+2023-08-25 12:10:16,512 [main] INFO logger_file - The user is on tek retail website
+2023-08-25 12:10:16,599 [main] INFO logger_file - The User clicked on signIn button successfully
+2023-08-25 12:10:16,662 [main] INFO logger_file - Create new account bttn clicked successfully
+2023-08-25 12:10:16,926 [main] INFO logger_file - User information was entered successfully
