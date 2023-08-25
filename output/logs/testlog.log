@@ -1901,3 +1901,13 @@
 2023-08-24 22:28:32,174 - logger_file -INFO - The user successfully entred the email and password
 2023-08-24 22:28:32,230 - logger_file -INFO - the user clicked on the login button successfully
 2023-08-24 22:28:32,593 - logger_file -INFO - The user is signed in successfully
+2023-08-24 22:33:57,759 - logger_file -INFO - The user is on tek retail website
+2023-08-24 22:33:57,840 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-24 22:33:57,974 - logger_file -INFO - The user successfully entred the email and password
+2023-08-24 22:33:58,032 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-24 22:33:58,367 - logger_file -INFO - The user is signed in successfully
+2023-08-24 22:40:13,588 - logger_file -INFO - The user is on tek retail website
+2023-08-24 22:40:13,669 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-24 22:40:13,810 - logger_file -INFO - The user successfully entred the email and password
+2023-08-24 22:40:13,872 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-24 22:40:14,226 - logger_file -INFO - The user is signed in successfully
