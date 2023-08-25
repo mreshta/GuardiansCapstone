@@ -1881,3 +1881,8 @@
 2023-08-24 22:12:51,108 - logger_file -INFO - The user successfully entred the email and password
 2023-08-24 22:12:51,172 - logger_file -INFO - the user clicked on the login button successfully
 2023-08-24 22:12:51,496 - logger_file -INFO - The user is signed in successfully
+2023-08-24 22:23:24,823 - logger_file -INFO - The user is on tek retail website
+2023-08-24 22:23:24,902 - logger_file -INFO - The User clicked on signIn button successfully
+2023-08-24 22:23:25,040 - logger_file -INFO - The user successfully entred the email and password
+2023-08-24 22:23:25,098 - logger_file -INFO - the user clicked on the login button successfully
+2023-08-24 22:23:25,498 - logger_file -INFO - The user is signed in successfully
